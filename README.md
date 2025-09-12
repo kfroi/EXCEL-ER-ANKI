@@ -1,4 +1,4 @@
-# EXCEL-LER-ANKI
+# EXCEL-ER-ANKI
 The programs that actually do this are trash so I made my own.
 100% Vibe-coded, 0% actual coding.
 
